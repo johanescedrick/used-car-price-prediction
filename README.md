@@ -1,0 +1,1 @@
+A regression project that predicts used car prices using neural network models with Sigmoid and ReLU activations. Includes data preprocessing, model training, and Random Search hyperparameter tuning to compare model performance.
